@@ -1,0 +1,23 @@
+{
+  "name": "qrcode",
+  "version": "1.0.0",
+  "description": "A simple application for generating QR codes.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "QR Code",
+    "QRCode",
+    "Node.js",
+    "Express"
+  ],
+  "author": "Your Name",
+  "type": "module",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1",
+    "qrcode": "^1.5.4"
+  }
+}
